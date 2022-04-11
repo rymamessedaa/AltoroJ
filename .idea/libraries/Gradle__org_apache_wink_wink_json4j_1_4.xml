@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.wink:wink-json4j:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wink/wink-json4j/1.4/4c2f2854a6c6ef462549945b4d146bb42fbbc2a3/wink-json4j-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wink/wink-json4j/1.4/367f16cf662fb8fffa5969387d2c4c49fe4952a3/wink-json4j-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
